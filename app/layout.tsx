@@ -5,6 +5,7 @@ import Footer from '@/components/Footer'
 import StructuredData from '@/components/StructuredData'
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://nagi-jewellers-website.vercel.app'),
   title: 'NAGI JEWELLERS LTD - Crafted with Trust Since 1999',
   description: 'Discover authentic jewellery from NAGI JEWELLERS LTD. 26+ years of trust, tradition, and quality craftsmanship. Shop our collection of artificial, silver, and gold-plated jewellery on Amazon.',
   keywords: 'jewellery, nagi jewellers, gold plated, silver jewellery, artificial jewellery, amazon seller, trust, legacy, authentic jewellery',
