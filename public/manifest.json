@@ -1,0 +1,27 @@
+{
+  "name": "NAGI JEWELLERS LTD - Crafted with Trust Since 1999",
+  "short_name": "NAGI JEWELLERS",
+  "description": "Authentic jewellery from NAGI JEWELLERS LTD. 26+ years of trust, tradition, and quality craftsmanship.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#f4a261",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["shopping", "lifestyle"],
+  "lang": "en",
+  "dir": "ltr"
+}
